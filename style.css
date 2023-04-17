@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: lightblue;
+}
+
+.nav-bar {
+    
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+#show-colors {
+    display: flex;
+    height: 550px;
+    
+    
+}
+
+img {
+    width: 20%;
+}
+
+
+#show-hex-number {
+    
+    height: 46px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+/* p:hover {
+    cursor: pointer;
+} */
